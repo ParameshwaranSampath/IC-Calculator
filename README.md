@@ -16,3 +16,5 @@ Libraries:
 SWING - for user interface,
 AWT - for perform events handling.
 IDE : Eclipse
+
+Blog link : https://javadesktopproject2.blogspot.com/2024/10/java-desktop-project-hello-everyone-in.html
